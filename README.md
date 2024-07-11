@@ -1,2 +1,2 @@
-# Jeffan_Recreated_1.1.exe
-bugfix version of my jeffan recreated.exe
+# Jeffan Recreated 1.1
+C++ GDI trojan by yedb0y33k
